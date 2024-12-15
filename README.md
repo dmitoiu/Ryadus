@@ -1,6 +1,6 @@
 ## Ryadus
 
-**C++ File Serializer**
+**C++ Command Line File Serializer**
 
 ## License
 
